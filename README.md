@@ -14,6 +14,7 @@
 + 🎯 Missão atual: Estrutura MVC e APIs REST
 
 ## 🐍 Snake Contribution
+```
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/silvanickm/silvanickm/output/github-contribution-grid-snake-dark.svg" />
