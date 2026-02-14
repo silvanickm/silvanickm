@@ -13,16 +13,27 @@
 ## 🎮 PLAYER HUD
 
 **Rank:** Code Knight 🗡  
-**Class:** Full Stack  
+**Class:** Full Stack Developer  
 **XP Status:** Active  
 **Next Rank:** System Architect ⚡  
 
 ---
 
-## ⚔ SKILLS PANEL
+## ⚔ DEV ARSENAL
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,github" />
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### 🧠 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🛠 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -50,10 +61,10 @@
 
 ## 🎯 CURRENT MISSION
 
-- Building Scheduly
-- JWT Authentication
-- Business Logic Architecture
-- Full Stack Integration
+- Building real full stack systems  
+- Improving backend architecture  
+- Authentication & business logic  
+- Preparing Scheduly  
 
 ---
 
