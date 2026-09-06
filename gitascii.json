@@ -4,7 +4,6 @@
     {
       "instanceId": "widget_1788725913767",
       "widgetId": "asciiprofile-heatmap",
-      "name": "Atividade no GitHub",
       "position": {
         "x": 58,
         "y": 840
@@ -32,14 +31,13 @@
     {
       "instanceId": "widget_1788725941454",
       "widgetId": "header",
-      "name": "Identidade",
       "position": {
         "x": 58,
         "y": 32
       },
       "size": {
         "width": 684,
-        "height": 64
+        "height": 80
       },
       "config": {
         "animationType": "typewriter",
@@ -52,7 +50,197 @@
       "zIndex": 2
     },
     {
-      "instanceId": "widget_1788726175717",
+      "instanceId": "widget_1788726181570",
+      "widgetId": "asciiprofile-info",
+      "position": {
+        "x": 370,
+        "y": 336
+      },
+      "size": {
+        "width": 372,
+        "height": 336
+      },
+      "config": {
+        "accentColor": "#c5ff4a"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1788726280216",
+      "widgetId": "pokemon-card",
+      "position": {
+        "x": 58,
+        "y": 1104
+      },
+      "size": {
+        "width": 184,
+        "height": 224
+      },
+      "config": {
+        "searchQuery": "Pikachu",
+        "searchCards": [
+          {
+            "id": "fut2020-1",
+            "name": "Pikachu on the Ball",
+            "image": "https://assets.tcgdex.net/en/swsh/fut2020/1/low.webp"
+          },
+          {
+            "id": "basep-1",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/base/basep/1/low.webp"
+          },
+          {
+            "id": "basep-4",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/base/basep/4/low.webp"
+          },
+          {
+            "id": "cel25-5",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/5/low.webp"
+          },
+          {
+            "id": "cel25-6",
+            "name": "Flying Pikachu V",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/6/low.webp"
+          },
+          {
+            "id": "cel25-7",
+            "name": "Flying Pikachu VMAX",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/7/low.webp"
+          },
+          {
+            "id": "ru1-7",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pl/ru1/7/low.webp"
+          },
+          {
+            "id": "cel25-8",
+            "name": "Surfing Pikachu V",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/8/low.webp"
+          },
+          {
+            "id": "P-A-009",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/009/low.webp"
+          },
+          {
+            "id": "cel25-9",
+            "name": "Surfing Pikachu VMAX",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/9/low.webp"
+          },
+          {
+            "id": "pop6-9",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop6/9/low.webp"
+          },
+          {
+            "id": "det1-10",
+            "name": "Detective Pikachu",
+            "image": "https://assets.tcgdex.net/en/sm/det1/10/low.webp"
+          },
+          {
+            "id": "pop5-12",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop5/12/low.webp"
+          },
+          {
+            "id": "np-12",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/np/12/low.webp"
+          },
+          {
+            "id": "pop5-13",
+            "name": "Pikachu δ",
+            "image": "https://assets.tcgdex.net/en/pop/pop5/13/low.webp"
+          },
+          {
+            "id": "pop4-13",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop4/13/low.webp"
+          },
+          {
+            "id": "P-A-015",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/015/low.webp"
+          },
+          {
+            "id": "pop9-15",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop9/15/low.webp"
+          },
+          {
+            "id": "pop2-16",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop2/16/low.webp"
+          },
+          {
+            "id": "sv04.5-018",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/sv/sv04.5/018/low.webp"
+          }
+        ],
+        "imageUrl": "https://assets.tcgdex.net/en/sv/sv04.5/018/low.webp",
+        "cardRawUrl": "https://assets.tcgdex.net/en/sv/sv04.5/018/low.webp"
+      },
+      "locked": false,
+      "visible": false,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1788726323660",
+      "widgetId": "tech-stack",
+      "position": {
+        "x": 58,
+        "y": 696
+      },
+      "size": {
+        "width": 684,
+        "height": 120
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "ts",
+          "react",
+          "nextjs",
+          "nodejs",
+          "tailwind",
+          "postgres",
+          "docker",
+          "git",
+          "html",
+          "reactnative"
+        ],
+        "hideBorder": false,
+        "hideDecorations": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1788726448973",
+      "widgetId": "bio",
+      "position": {
+        "x": 58,
+        "y": 120
+      },
+      "size": {
+        "width": 684,
+        "height": 192
+      },
+      "config": {
+        "lockAspectRatio": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1788728071682",
       "widgetId": "asciiprofile-portrait",
       "name": "Asciiprofile-portrait Widget",
       "position": {
@@ -60,8 +248,8 @@
         "y": 336
       },
       "size": {
-        "width": 288,
-        "height": 336
+        "width": 296,
+        "height": 320
       },
       "config": {
         "accentColor": "#c5ff4a",
@@ -11549,216 +11737,19 @@
       },
       "locked": false,
       "visible": true,
-      "zIndex": 3
-    },
-    {
-      "instanceId": "widget_1788726181570",
-      "widgetId": "asciiprofile-info",
-      "name": "Perfil profissional",
-      "position": {
-        "x": 370,
-        "y": 336
-      },
-      "size": {
-        "width": 372,
-        "height": 336
-      },
-      "config": {
-        "accentColor": "#c5ff4a"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 4
-    },
-    {
-      "instanceId": "widget_1788726280216",
-      "widgetId": "pokemon-card",
-      "name": "Interesses pessoais (opcional)",
-      "position": {
-        "x": 58,
-        "y": 1104
-      },
-      "size": {
-        "width": 184,
-        "height": 224
-      },
-      "config": {
-        "searchQuery": "Pikachu",
-        "searchCards": [
-          {
-            "id": "fut2020-1",
-            "name": "Pikachu on the Ball",
-            "image": "https://assets.tcgdex.net/en/swsh/fut2020/1/low.webp"
-          },
-          {
-            "id": "basep-1",
-            "name": "Pikachu",
-            "image": "https://assets.tcgdex.net/en/base/basep/1/low.webp"
-          },
-          {
-            "id": "basep-4",
-            "name": "Pikachu",
-            "image": "https://assets.tcgdex.net/en/base/basep/4/low.webp"
-          },
-          {
-            "id": "cel25-5",
-            "name": "Pikachu",
-            "image": "https://assets.tcgdex.net/en/swsh/cel25/5/low.webp"
-          },
-          {
-            "id": "cel25-6",
-            "name": "Flying Pikachu V",
-            "image": "https://assets.tcgdex.net/en/swsh/cel25/6/low.webp"
-          },
-          {
-            "id": "cel25-7",
-            "name": "Flying Pikachu VMAX",
-            "image": "https://assets.tcgdex.net/en/swsh/cel25/7/low.webp"
-          },
-          {
-            "id": "ru1-7",
-            "name": "Pikachu",
-            "image": "https://assets.tcgdex.net/en/pl/ru1/7/low.webp"
-          },
-          {
-            "id": "cel25-8",
-            "name": "Surfing Pikachu V",
-            "image": "https://assets.tcgdex.net/en/swsh/cel25/8/low.webp"
-          },
-          {
-            "id": "P-A-009",
-            "name": "Pikachu",
-            "image": "https://assets.tcgdex.net/en/tcgp/P-A/009/low.webp"
-          },
-          {
-            "id": "cel25-9",
-            "name": "Surfing Pikachu VMAX",
-            "image": "https://assets.tcgdex.net/en/swsh/cel25/9/low.webp"
-          },
-          {
-            "id": "pop6-9",
-            "name": "Pikachu",
-            "image": "https://assets.tcgdex.net/en/pop/pop6/9/low.webp"
-          },
-          {
-            "id": "det1-10",
-            "name": "Detective Pikachu",
-            "image": "https://assets.tcgdex.net/en/sm/det1/10/low.webp"
-          },
-          {
-            "id": "pop5-12",
-            "name": "Pikachu",
-            "image": "https://assets.tcgdex.net/en/pop/pop5/12/low.webp"
-          },
-          {
-            "id": "np-12",
-            "name": "Pikachu",
-            "image": "https://assets.tcgdex.net/en/pop/np/12/low.webp"
-          },
-          {
-            "id": "pop5-13",
-            "name": "Pikachu δ",
-            "image": "https://assets.tcgdex.net/en/pop/pop5/13/low.webp"
-          },
-          {
-            "id": "pop4-13",
-            "name": "Pikachu",
-            "image": "https://assets.tcgdex.net/en/pop/pop4/13/low.webp"
-          },
-          {
-            "id": "P-A-015",
-            "name": "Pikachu",
-            "image": "https://assets.tcgdex.net/en/tcgp/P-A/015/low.webp"
-          },
-          {
-            "id": "pop9-15",
-            "name": "Pikachu",
-            "image": "https://assets.tcgdex.net/en/pop/pop9/15/low.webp"
-          },
-          {
-            "id": "pop2-16",
-            "name": "Pikachu",
-            "image": "https://assets.tcgdex.net/en/pop/pop2/16/low.webp"
-          },
-          {
-            "id": "sv04.5-018",
-            "name": "Pikachu",
-            "image": "https://assets.tcgdex.net/en/sv/sv04.5/018/low.webp"
-          }
-        ],
-        "imageUrl": "https://assets.tcgdex.net/en/sv/sv04.5/018/low.webp",
-        "cardRawUrl": "https://assets.tcgdex.net/en/sv/sv04.5/018/low.webp"
-      },
-      "locked": false,
-      "visible": false,
-      "zIndex": 5
-    },
-    {
-      "instanceId": "widget_1788726323660",
-      "widgetId": "tech-stack",
-      "name": "Tecnologias",
-      "position": {
-        "x": 58,
-        "y": 696
-      },
-      "size": {
-        "width": 684,
-        "height": 120
-      },
-      "config": {
-        "selectedTechs": [
-          "js",
-          "ts",
-          "react",
-          "nextjs",
-          "nodejs",
-          "tailwind",
-          "postgres",
-          "docker",
-          "git",
-          "html",
-          "reactnative"
-        ],
-        "hideBorder": false,
-        "hideDecorations": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6
-    },
-    {
-      "instanceId": "widget_1788726448973",
-      "widgetId": "bio",
-      "name": "Sobre",
-      "position": {
-        "x": 58,
-        "y": 120
-      },
-      "size": {
-        "width": 684,
-        "height": 192
-      },
-      "config": {
-        "lockAspectRatio": false
-      },
-      "locked": false,
-      "visible": true,
       "zIndex": 7
     }
   ],
   "globalStyles": {
     "backgroundColor": "#060606",
+    "borderColor": "#292929",
     "textColor": "#ededed",
     "accentColor": "#c5ff4a",
-    "borderColor": "#292929",
     "fontFamily": "'Inter Tight', sans-serif",
     "borderRadius": 8,
-    "padding": 20,
-    "themeMode": "dark",
-    "templateStyle": "blank",
-    "transparentBackground": false
+    "transparentBackground": false,
+    "templateStyle": "blank"
   },
   "templateId": "blank",
   "profileSlug": "default"
 }
-
