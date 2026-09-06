@@ -245,11 +245,11 @@
       "name": "Asciiprofile-portrait Widget",
       "position": {
         "x": 58,
-        "y": 336
+        "y": 352
       },
       "size": {
-        "width": 296,
-        "height": 320
+        "width": 288,
+        "height": 304
       },
       "config": {
         "accentColor": "#c5ff4a",
