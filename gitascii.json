@@ -4,25 +4,25 @@
     {
       "instanceId": "widget_1788725913767",
       "widgetId": "asciiprofile-heatmap",
-      "name": "Asciiprofile-heatmap Widget",
+      "name": "Atividade no GitHub",
       "position": {
         "x": 58,
-        "y": 96
+        "y": 840
       },
       "size": {
         "width": 684,
         "height": 240
       },
       "config": {
-        "accentColor": "#ffa657",
+        "accentColor": "#c5ff4a",
         "paletteIndex": 0,
         "palette": [
-          "#161b22",
-          "#0e4429",
-          "#006d32",
-          "#26a641",
-          "#39d353",
-          "#69f0a0"
+          "#161b12",
+          "#293b16",
+          "#466020",
+          "#6d8b2c",
+          "#99ba3b",
+          "#c5ff4a"
         ]
       },
       "locked": false,
@@ -32,19 +32,19 @@
     {
       "instanceId": "widget_1788725941454",
       "widgetId": "header",
-      "name": "Header Widget",
+      "name": "Identidade",
       "position": {
-        "x": 104,
-        "y": 8
+        "x": 58,
+        "y": 32
       },
       "size": {
-        "width": 592,
-        "height": 80
+        "width": 684,
+        "height": 64
       },
       "config": {
         "animationType": "typewriter",
         "animationPreviewKey": 3,
-        "animationDuration": 2650,
+        "animationDuration": 900,
         "animationEasing": "linear"
       },
       "locked": false,
@@ -11554,13 +11554,13 @@
     {
       "instanceId": "widget_1788726181570",
       "widgetId": "asciiprofile-info",
-      "name": "Asciiprofile-info Widget",
+      "name": "Perfil profissional",
       "position": {
-        "x": 354,
+        "x": 370,
         "y": 336
       },
       "size": {
-        "width": 388,
+        "width": 372,
         "height": 336
       },
       "config": {
@@ -11573,10 +11573,10 @@
     {
       "instanceId": "widget_1788726280216",
       "widgetId": "pokemon-card",
-      "name": "Pokemon-card Widget",
+      "name": "Interesses pessoais (opcional)",
       "position": {
-        "x": 573,
-        "y": 672
+        "x": 58,
+        "y": 1104
       },
       "size": {
         "width": 184,
@@ -11690,20 +11690,20 @@
         "cardRawUrl": "https://assets.tcgdex.net/en/sv/sv04.5/018/low.webp"
       },
       "locked": false,
-      "visible": true,
+      "visible": false,
       "zIndex": 5
     },
     {
       "instanceId": "widget_1788726323660",
       "widgetId": "tech-stack",
-      "name": "Tech-stack Widget",
+      "name": "Tecnologias",
       "position": {
         "x": 58,
-        "y": 676
+        "y": 696
       },
       "size": {
-        "width": 512,
-        "height": 112
+        "width": 684,
+        "height": 120
       },
       "config": {
         "selectedTechs": [
@@ -11720,7 +11720,7 @@
           "reactnative"
         ],
         "hideBorder": false,
-        "hideDecorations": false
+        "hideDecorations": true
       },
       "locked": false,
       "visible": true,
@@ -11729,14 +11729,14 @@
     {
       "instanceId": "widget_1788726448973",
       "widgetId": "bio",
-      "name": "Bio Widget",
+      "name": "Sobre",
       "position": {
         "x": 58,
-        "y": 794
+        "y": 120
       },
       "size": {
-        "width": 511,
-        "height": 97
+        "width": 684,
+        "height": 192
       },
       "config": {
         "lockAspectRatio": false
@@ -11748,13 +11748,13 @@
   ],
   "globalStyles": {
     "backgroundColor": "#060606",
-    "textColor": "#e5e5e5",
+    "textColor": "#ededed",
     "accentColor": "#c5ff4a",
-    "borderColor": "#252525",
+    "borderColor": "#292929",
     "fontFamily": "'Inter Tight', sans-serif",
-    "borderRadius": 12,
+    "borderRadius": 8,
     "padding": 20,
-    "themeMode": "auto",
+    "themeMode": "dark",
     "templateStyle": "blank",
     "transparentBackground": false
   },
